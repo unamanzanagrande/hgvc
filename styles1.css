@@ -1,0 +1,30 @@
+.centrado {
+    text-align: center;
+    background-color: #afacb4;
+    color: white;
+}
+.centrado1 {
+    text-align: center;
+}
+h2 {
+    color: #524f55;
+}
+.body {
+    background-color: #b4a9c4;
+}
+.foto {
+    display: flex;
+    align-items: flex-start;
+}
+.texto {
+    margin-right: 300px;
+}
+.foto img {
+    max-width: 100%;
+    height: 150;
+    width: 200; 
+}
+h3 {
+font-style: italic;
+font-weight: 700;
+}
